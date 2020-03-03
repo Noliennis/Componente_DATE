@@ -8,7 +8,6 @@
   .custom-day:hover, .custom-day.focused {
     background-color: #e6e6e6;
   }
-  
   .weekend {
     background-color: #f0ad4e;
     border-radius: 1rem;
